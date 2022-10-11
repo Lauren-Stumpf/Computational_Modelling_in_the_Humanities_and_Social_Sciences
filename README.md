@@ -15,3 +15,4 @@ Fair representation, as asserted by Philips [3], is achieved by there existing a
 * processing_index_of_places.py - Python file pre-processing index of places file using pandas
 * scrapping_vision_of_britain.py - Python file extracting information from Vision of Britain
 * scrapping_wikipedia.py - Python file scrapping wikipedia 
+* paper_comp_modelling - Report detailing methodology
