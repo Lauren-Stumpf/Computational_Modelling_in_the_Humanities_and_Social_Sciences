@@ -4,6 +4,9 @@ This report causally models the geographical distribution of MP’s place of bir
 
 Fair representation, as asserted by Philips [3], is achieved by there existing a loose correspondence between the experiences of those in government and their electorate [4]. This analysis provides an important dimension in answering how well the UK government has achieved fair representation. It finds specific relevance in understanding whether the historic regional funding bias [5] can be attributed to the geographic representativeness of MPs.
 
+
+![Generated Images 1](MFA_graph.png?raw=true "MFA")
+
 ## Contents
 * SPARQL.py - Python file for making queries to SPARQL Endpoint interface
 * POS_spacy.py - Python file for POS using Spacy’s pretrained English pipeline ‘en_core_web_sm’
